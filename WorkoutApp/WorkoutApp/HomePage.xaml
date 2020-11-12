@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    x:Class="WorkoutApp.HomePage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:font="clr-namespace:WorkoutApp.Fonts"
+    Title="">
+    <ContentPage.IconImageSource>
+        <FontImageSource
+            FontFamily="LightPro"
+            Glyph="{x:Static font:FontAwesome.Home}"
+            Size="25" />
+    </ContentPage.IconImageSource>
+    <ContentPage.Content />
+</ContentPage>

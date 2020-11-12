@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<TabbedPage
+    x:Class="WorkoutApp.MasterPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:workoutapp="clr-namespace:WorkoutApp"
+    android:TabbedPage.BarItemColor="#40D876"
+    android:TabbedPage.BarSelectedItemColor="Black"
+    android:TabbedPage.IsSwipePagingEnabled="False"
+    android:TabbedPage.ToolbarPlacement="Bottom"
+    BarBackgroundColor="#24253A"
+    BarTextColor="#40D876"
+    NavigationPage.HasNavigationBar="False"
+    SelectedTabColor="#40D876"
+    UnselectedTabColor="#D9D9D9">
+    <TabbedPage.Children>
+        <workoutapp:HomePage />
+        <ContentPage Title="Workout" />
+        <ContentPage Title="Level" />
+        <ContentPage Title="Profile" />
+    </TabbedPage.Children>
+</TabbedPage>

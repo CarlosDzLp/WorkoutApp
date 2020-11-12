@@ -1,0 +1,17 @@
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/bin/Debug/netstandard2.0/WorkoutApp.deps.json
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/bin/Debug/netstandard2.0/WorkoutApp.dll
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/bin/Debug/netstandard2.0/ref/WorkoutApp.dll
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/bin/Debug/netstandard2.0/WorkoutApp.pdb
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/WorkoutApp.csprojAssemblyReference.cache
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/WorkoutApp.AssemblyInfoInputs.cache
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/WorkoutApp.AssemblyInfo.cs
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/WorkoutApp.csproj.CoreCompileInputs.cache
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/WorkoutApp.dll
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/ref/WorkoutApp.dll
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/WorkoutApp.pdb
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/MasterPage.xaml.g.cs
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp/obj/Debug/netstandard2.0/HomePage.xaml.g.cs

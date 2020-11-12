@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1560" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
+    <PackageReference Include="Xamarin.Forms.PancakeView" Version="1.4.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fonts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Fonts\FontAwesome5Brands.otf" />
+    <None Remove="Fonts\FontAwesome5BrandsPro.otf" />
+    <None Remove="Fonts\FontAwesome5LightPro.otf" />
+    <None Remove="Fonts\FontAwesome5Regular.otf" />
+    <None Remove="Fonts\FontAwesome5RegularPro.otf" />
+    <None Remove="Fonts\FontAwesome5Solid.otf" />
+    <None Remove="Fonts\FontAwesome5SolidPro.otf" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Fonts\FontAwesome5Brands.otf" />
+    <EmbeddedResource Include="Fonts\FontAwesome5BrandsPro.otf" />
+    <EmbeddedResource Include="Fonts\FontAwesome5LightPro.otf" />
+    <EmbeddedResource Include="Fonts\FontAwesome5Regular.otf" />
+    <EmbeddedResource Include="Fonts\FontAwesome5RegularPro.otf" />
+    <EmbeddedResource Include="Fonts\FontAwesome5Solid.otf" />
+    <EmbeddedResource Include="Fonts\FontAwesome5SolidPro.otf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="HomePage.xaml.cs" />
+  </ItemGroup>
+</Project>
