@@ -109,7 +109,7 @@
                             <Entry
                                 CharacterSpacing="5"
                                 IsPassword="True"
-                                Text="ryankar90"
+                                Text="tupassword"
                                 TextColor="White" />
                             <BoxView HeightRequest="1" Color="White" />
                         </StackLayout>
