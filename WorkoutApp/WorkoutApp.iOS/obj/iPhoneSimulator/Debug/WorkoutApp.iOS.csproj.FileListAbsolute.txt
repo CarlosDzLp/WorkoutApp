@@ -50,12 +50,12 @@
 /Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/WorkoutApp.iOS.csproj.CopyComplete
 /Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/WorkoutApp.iOS.exe
 /Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/WorkoutApp.iOS.pdb
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/actool/_PartialAppManifest.items
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/actool/_BundleResourceWithLogicalName.items
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/coremlc/_PartialAppManifest.items
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/coremlc/_BundleResourceWithLogicalName.items
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/optimized/image1.png
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/optimized/
-/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12-14.1/optimized/image2.png
 /Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/actool/_PartialAppManifest.items
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/coremlc/_PartialAppManifest.items
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/optimized/image1.png
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/optimized/image2.png
+/Users/carlosdiaz/WorkoutApp/WorkoutApp/WorkoutApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/optimized/
