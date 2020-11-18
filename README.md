@@ -1,11 +1,9 @@
 # WorkoutApp
 
-## ANDROID
-<img width="250" src="https://github.com/CarlosDzLp/ChatUI/blob/master/chatuiAndroid.gif" />
+<img src="https://github.com/CarlosDzLp/WorkoutApp/blob/master/Screenshot/screen1.png" />
 
 
-## iOS
-<img width="250" src="https://github.com/CarlosDzLp/ChatUI/blob/master/chatuiiOS.gif" />
+<img src="https://github.com/CarlosDzLp/WorkoutApp/blob/master/Screenshot/screen2.png" />
 
 
 
